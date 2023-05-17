@@ -1,0 +1,33 @@
+_repo: Her-fairy-prince_70582
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warden, Gertrude
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '55805'
+    url: http://www.gutenberg.org/2009/agents/55805
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Warden
+description: ''
+gutenberg_issued: '2023-04-18'
+identifiers:
+  gutenberg: '70582'
+  lccn: 08034843
+language: en
+pgterms:marc904: https://archive.org/details/herfairyprince00ward/page/n7/mode/2up
+pgterms:marc905: 20200818215613warden
+pgterms:marc906: '1895'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bJ. B. Lippincott Company, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Her fairy prince
+url: http://www.gutenberg.org/ebooks/70582
